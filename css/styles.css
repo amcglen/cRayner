@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+.intro-text {
+  font-size: 1.2rem;
+  text-align: justify;
+  color: aliceblue;
+}
